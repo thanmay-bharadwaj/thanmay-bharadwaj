@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thanmay_" target="blank"><img src="https://img.shields.io/twitter/follow/thanmay_?logo=twitter&style=for-the-badge" alt="thanmay_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/thanmay-bharadwaj](https://github.com/thanmay-bharadwaj)
+- 👨‍💻 All of my projects are available at [https://github.com/thanmay-bharadwaj](github.com/thanmay-bharadwaj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
