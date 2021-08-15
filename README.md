@@ -1,3 +1,8 @@
+<!-- <p align="center">
+  <img src="https://github.com/0dayNinja/0dayNinja/blob/main/github.gif" width=200>
+    <br> -->
+ 
+
 <h1 align="center">Hi 👋, I'm <a href="https://thanmay-bharadwaj.github.io/thanmay/">THANMAY BHARADWAJ J S</a></h1>
 <h3 align="center">A passionate student from Bengaluru, India.</h3></br>
 
