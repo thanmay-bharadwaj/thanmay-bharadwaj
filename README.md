@@ -4,7 +4,7 @@
  
 
 <h1 align="center">Hi 👋, I'm <a href="https://thanmay-bharadwaj.github.io/thanmay/">THANMAY BHARADWAJ J S</a></h1>
-<h3 align="center">A passionate student from Bengaluru, India.</h3></br>
+
 
 
 <!-- All of my projects are available at [https://github.com/Inchara-JA](https://github.com/Inchara-JA)</br>
